@@ -1,7 +1,7 @@
 <! DOCTYPE html>
 <html>
   <?php
-echo " hello world"
+ echo " hello world" ;
 ?>
 <body>
 <p>this is my site <p>
