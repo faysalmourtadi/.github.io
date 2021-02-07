@@ -1,9 +1,7 @@
 <! DOCTYPE html>
 <html>
-  <?php
- echo " hello world" ;
-?>
 <body>
+  <iframe src="http://localhost/index1.php"></iframe>
 <p>this is my site <p>
   </body>
   </html>
